@@ -35,5 +35,5 @@ df = pd.DataFrame({'latitude': lat, 'longitude': lng}, index=name)
 df.index.name = 'name'
 df['font size'] = 10
 df['font file'] = 'fonts/helvetica.ttf'
-df['point size'] = 4
+df['point size'] = 2
 df.to_csv('dymo_input.csv')

@@ -1,0 +1,2215 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.75272656387183, 
+          45.61629491792573
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "St. Johns", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67710345649205, 
+          45.61094989082174
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Hayden Island", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.78170720193108, 
+          45.59777544742506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Linnton", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.78119425816331, 
+          45.58025679123053
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Forest Park/Linnton", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.69764152787265, 
+          45.59450950731551
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Kenton", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.77012863922214, 
+          45.55799909447851
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Forest Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.66912544194655, 
+          45.603083383100575
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Bridgeton", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.6621107026483, 
+          45.59372799080633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "East Columbia", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.65327988335116, 
+          45.601560925351905
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Mc Unclaimed #2", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.75730245239961, 
+          45.587362607722675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Cathedral Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.63693685966585, 
+          45.583168532230395
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Sunderland", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.71840052314862, 
+          45.58723344294556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Portsmouth", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67114992314153, 
+          45.58486790701938
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Mc Unclaimed #1", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.73006495922989, 
+          45.576348098201144
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "University Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.72745974876968, 
+          45.557683275254135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Northwest Industrial", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67025941328043, 
+          45.57480043149666
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Piedmont", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.6530224979881, 
+          45.572559833156895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Woodlawn", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.60149439511792, 
+          45.563747224440526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Cully", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.6908275981714, 
+          45.572146175768424
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Arbor Lodge", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.69943838667713, 
+          45.559444931510946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Overlook", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.63286628533488, 
+          45.56543289451927
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Concordia", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.54740701506593, 
+          45.56017213796411
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Parkrose", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.5702796293558, 
+          45.56209580784334
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Sumner", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.52335608497854, 
+          45.55593802648669
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Argay", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67164405629272, 
+          45.560500416182336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Humboldt", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.65907923537881, 
+          45.55781097716531
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "King", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.64844379396263, 
+          45.56237258040879
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Vernon", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.49761601388239, 
+          45.54879784146131
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Wilkes", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.62262799349332, 
+          45.550476534886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Beaumont-Wilshire", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.6488700588619, 
+          45.55278564111168
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Sabin", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.63584810389759, 
+          45.54905678626949
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Alameda", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67200604455668, 
+          45.55033960723468
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Boise", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.77190064181192, 
+          45.54030621984628
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Northwest Heights", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.58878171595556, 
+          45.54911820637185
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Roseway", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.55993080041357, 
+          45.549954364307624
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Maywood Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.57419511752188, 
+          45.5415368931557
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Madison South", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.51062213770649, 
+          45.55054629023269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Argay/Wilkes", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.6717564558193, 
+          45.545665535536614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Boise/Eliot", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.66853433873794, 
+          45.54036207380946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Eliot", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.64995269358634, 
+          45.540259185866
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Irvington", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.64932680171225, 
+          45.54671084291815
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Sabin/Irvington", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.64164690705675, 
+          45.545142877021675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Alameda/Irvington", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.60592892275127, 
+          45.538479879603656
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Rose City Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.54817187565706, 
+          45.54038873871653
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Parkrose Heights", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.69894858129187, 
+          45.53366985302194
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Northwest District", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.62875634349419, 
+          45.545243766141446
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Alameda/Beaumont-Wilshire", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.70343294380397, 
+          45.54027894813907
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Northwest District/Northwest Industrial", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.72225774255627, 
+          45.54181179321686
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Forest Park/Northwest District", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.5275417407999, 
+          45.53931326183125
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Russell", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.58104775922584, 
+          45.54186638050524
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Roseway/Madison South", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.62916440558757, 
+          45.53930938996592
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Grant Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.6224602288185, 
+          45.54273171477217
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Mc Unclaimed #5", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.68187255154774, 
+          45.529904530270876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Pearl", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.61998645127737, 
+          45.538405680344795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Grant Park/Hollywood", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.61950533010216, 
+          45.5350230881249
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Hollywood", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.55993090785067, 
+          45.53541222125663
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Woodland Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.66194046357695, 
+          45.53117714952382
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Lloyd District", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.64141499658705, 
+          45.532855851000136
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Sullivan'S Gulch", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.62729333902314, 
+          45.53470988519061
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Mc Unclaimed #6", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.57747735054734, 
+          45.52035563702518
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Montavilla", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.62454736573383, 
+          45.526266472259636
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Laurelhurst", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.70470057032817, 
+          45.528464524812655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Hillside/Northwest District", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.64533807132892, 
+          45.52602600180904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Kerns", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.65194163980219, 
+          45.53048999798339
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Lloyd District/Sullivan'S Gulch", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.7158856217261, 
+          45.52588647601993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Hillside", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.60531618639891, 
+          45.526050152152926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "North Tabor", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.53888513720801, 
+          45.52128960577501
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Hazelwood", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67262382996653, 
+          45.52541421506582
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Old Town/Chinatown", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.7070017490038, 
+          45.51831973918949
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Arlington Heights", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.6929963737262, 
+          45.519415834957464
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Goose Hollow", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.50415531495929, 
+          45.52280945744633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Glenfair", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.7151707720664, 
+          45.51316778542127
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Arlington Heights/Sylvan-Highlands", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.65319173613578, 
+          45.51748368147945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Buckman", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67887094623057, 
+          45.51424849424839
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Downtown", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.59866245001662, 
+          45.51430394117603
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Mt. Tabor", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.73293591998656, 
+          45.515332278662214
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Sylvan-Highlands", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.6989624315901, 
+          45.51826944023065
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Goose Hollow/Southwest Hills", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.69268666169394, 
+          45.51289141511002
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Goose Hollow/Southwest Hills", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.70732452734651, 
+          45.503878603258144
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Southwest Hills", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.62480506158902, 
+          45.515664796197846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Sunnyside", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.5559390694758, 
+          45.517402333395545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Hazelwood/Mill Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.72769131629181, 
+          45.51148867772639
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Sylvan-Highlands/Southwest Hills", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.54025638389953, 
+          45.51208108158713
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Mill Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.5003381548673, 
+          45.505939147085606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Centennial", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.65103166208365, 
+          45.50626806609392
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Hosford-Abernethy", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.62302983495674, 
+          45.50451042227936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Richmond", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67379916812081, 
+          45.488032860276526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "South Portland", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.68722114127681, 
+          45.4950818267551
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Homestead", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.59384570755806, 
+          45.50139778871707
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "South Tabor", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.71908530056464, 
+          45.4983371896554
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Bridlemile/Southwest Hills", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.53999652571565, 
+          45.493466048518755
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Powellhurst-Gilbert", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.65634305943715, 
+          45.490136201980754
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Brooklyn Action Corps", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.72552115047344, 
+          45.49021013242898
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Bridlemile", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.62213208838631, 
+          45.49360798613757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Creston-Kenilworth", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.69559264308602, 
+          45.48018465026995
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Hillsdale", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.59041479818913, 
+          45.492384598520246
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Foster-Powell", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.56568734413379, 
+          45.47732317145207
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Lents", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.55496548817166, 
+          45.4911414799809
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Lents/Powellhurst-Gilbert", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.69838895318462, 
+          45.492347379458344
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Healy Heights/Southwest Hills", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.4924123317924, 
+          45.490304582825544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Centennial/Pleasant Valley", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.51710465907219, 
+          45.47289883353484
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Pleasant Valley", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.69449889358025, 
+          45.49047909834018
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Southwest Hills", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.59189980721271, 
+          45.48168847536938
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Mt. Scott-Arleta", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.65184952750286, 
+          45.47035848210575
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Sellwood-Moreland Improvement League", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.63215256879444, 
+          45.48680118420302
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Reed", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.61366500746794, 
+          45.48062986894895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Woodstock", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.72774989354198, 
+          45.48103562318226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Hayhurst", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.63168301045637, 
+          45.48180404425677
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Eastmoreland/Reed", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.63149466275792, 
+          45.47302430990239
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Eastmoreland", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.52659927239347, 
+          45.47897178751135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Pleasant Valley/Powellhurst-Gilbert", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.73358415044227, 
+          45.47188691358877
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Maplewood", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.71262710086741, 
+          45.46654686699766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Multnomah", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.59735729526557, 
+          45.4688980178911
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Brentwood-Darlington", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.68477220415876, 
+          45.466722573926084
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "South Burlingame", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.73695472049207, 
+          45.457794092713236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Ashcreek", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.66989393096422, 
+          45.459572734854994
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Mc Unclaimed #11", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.63442553856879, 
+          45.46563868790282
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Eastmoreland/Ardenwald-Johnson Creek", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.62971688046997, 
+          45.462563282644005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Ardenwald-Johnson Creek", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.70348634262777, 
+          45.45643074019391
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Markham", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.69406584048673, 
+          45.45319030779303
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Marshall Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.61919986356097, 
+          45.46300254675557
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Ardenwald-Johnson Creek/Woodstock", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67896611783175, 
+          45.453065475310034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Collins View", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.61116000467426, 
+          45.46191111798155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Ardenwald-Johnson Creek", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.7285581082832, 
+          45.45377483362627
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Crestwood", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.72222013120202, 
+          45.458782507216576
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Ashcreek/Crestwood", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.72057398112435, 
+          45.45619833897557
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Ashcreek/Crestwood", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.7204926219729, 
+          45.446959673880926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "West Portland Park", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.67760578987479, 
+          45.44061182530825
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Mc Unclaimed #13", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.70013734471931, 
+          45.44165223450718
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Arnold Creek", 
+        "point_size": 2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.73498010305435, 
+          45.439177193966614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
+        "font_file": "fonts/helvetica.ttf", 
+        "font_size": 10, 
+        "name": "Far Southwest", 
+        "point_size": 2
+      }
+    }
+  ]
+}
