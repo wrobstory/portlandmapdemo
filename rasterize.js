@@ -1,3 +1,6 @@
+//This script comes from: https://github.com/ariya/phantomjs/blob/master/examples/rasterize.js
+//The script is BSD licensed
+
 var page = require('webpage').create(),
     system = require('system'),
     address, output, size;

@@ -9,8 +9,7 @@ export to CSV fpr Dymo
 from osgeo import ogr
 import pandas as pd
 
-with open('neighborhoods.json', 'r') as f:
-    hoods = ogr.Open('neighborhoods.json')
+hoods = ogr.Open('neighborhoods.geojson')
 
 layer = hoods.GetLayer(iLayer=0)
 
@@ -30,7 +29,7 @@ while (count < layer.GetFeatureCount()):
     name.append(feat['NAME'].lower().title())
     count += 1
 
-#Throw them into DataFrame, write to CSV
+#Enter parameters into Pandas DataFrame, write to CSV
 df = pd.DataFrame({'latitude': lat, 'longitude': lng}, index=name)
 df.index.name = 'name'
 df['font size'] = 10

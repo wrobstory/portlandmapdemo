@@ -31,11 +31,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "St. Johns", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -68,11 +69,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Hayden Island", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -105,11 +107,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Linnton", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -142,11 +145,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Forest Park/Linnton", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -179,11 +183,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Kenton", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -216,11 +221,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Forest Park", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -229,35 +235,36 @@
         "coordinates": [
           [
             [
-              -122.69198748677562, 
-              45.60267518113091
+              -122.66810023046983, 
+              45.60310158204105
             ], 
             [
-              -122.670150652767, 
-              45.60306517505426
+              -122.64626307075748, 
+              45.60348705690446
             ], 
             [
-              -122.67028039271379, 
-              45.60666331830613
+              -122.64639130029167, 
+              45.6070852263029
             ], 
             [
-              -122.69211860742669, 
-              45.60627330021267
+              -122.66822984077011, 
+              45.60669972754926
             ], 
             [
-              -122.69198748677562, 
-              45.60267518113091
+              -122.66810023046983, 
+              45.60310158204105
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Bridgeton", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -266,35 +273,36 @@
         "coordinates": [
           [
             [
-              -122.66108565754533, 
-              45.59374612750568
+              -122.66104261276107, 
+              45.592546737972775
             ], 
             [
-              -122.62772008450112, 
-              45.59433150585635
+              -122.6276777427879, 
+              45.59313210423077
             ], 
             [
-              -122.62784712035516, 
-              45.597929707562244
+              -122.62780477328465, 
+              45.59673030752261
             ], 
             [
-              -122.66121480279006, 
-              45.59734429293203
+              -122.66117175255972, 
+              45.59614490498582
             ], 
             [
-              -122.66108565754533, 
-              45.59374612750568
+              -122.66104261276107, 
+              45.592546737972775
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "East Columbia", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -303,35 +311,36 @@
         "coordinates": [
           [
             [
-              -122.65225469426834, 
-              45.601578983567286
+              -122.65212610622713, 
+              45.597980813582026
+            ], 
+            [
+              -122.61250455774027, 
+              45.598671743710575
             ], 
             [
               -122.6126306406676, 
               45.60226995651728
             ], 
             [
-              -122.61275673954945, 
-              45.605868164541455
-            ], 
-            [
-              -122.65238329858065, 
-              45.605177148767346
-            ], 
-            [
               -122.65225469426834, 
               45.601578983567286
+            ], 
+            [
+              -122.65212610622713, 
+              45.597980813582026
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Mc Unclaimed #2", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -364,11 +373,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Cathedral Park", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -377,35 +387,36 @@
         "coordinates": [
           [
             [
-              -122.63591199683715, 
-              45.583186445410234
+              -122.6358269864042, 
+              45.58078763818391
             ], 
             [
-              -122.60977777761273, 
-              45.58364015588493
+              -122.60969386836024, 
+              45.58124132991328
             ], 
             [
-              -122.60990365475948, 
-              45.587238390917584
+              -122.60981973489248, 
+              45.58483956808633
             ], 
             [
-              -122.63603952592847, 
-              45.586784652323495
+              -122.63595450474187, 
+              45.58438584823869
             ], 
             [
-              -122.63591199683715, 
-              45.583186445410234
+              -122.6358269864042, 
+              45.58078763818391
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Sunderland", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -438,11 +449,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Portsmouth", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -451,35 +463,36 @@
         "coordinates": [
           [
             [
-              -122.71174187866158, 
-              45.582938891129146
+              -122.67012504056112, 
+              45.58488612406026
             ], 
             [
-              -122.67213153323773, 
-              45.58365029170624
+              -122.63051282918926, 
+              45.58558323769728
             ], 
             [
-              -122.67226135419457, 
-              45.5872484576398
+              -122.63064002215138, 
+              45.589181447518335
             ], 
             [
-              -122.71187420322275, 
-              45.58653701297349
+              -122.67025473742872, 
+              45.58848429067696
             ], 
             [
-              -122.71174187866158, 
-              45.582938891129146
+              -122.67012504056112, 
+              45.58488612406026
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Mc Unclaimed #1", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -512,11 +525,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "University Park", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -549,11 +563,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Northwest Industrial", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -586,11 +601,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Piedmont", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -623,11 +639,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Woodlawn", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -660,11 +677,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Cully", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -697,11 +715,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Arbor Lodge", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -734,11 +753,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Overlook", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -771,11 +791,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Concordia", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -808,11 +829,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Parkrose", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -845,11 +867,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Sumner", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -882,11 +905,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Argay", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -919,11 +943,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Humboldt", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -956,11 +981,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "King", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -993,11 +1019,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Vernon", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -1030,11 +1057,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Wilkes", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1067,11 +1095,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Beaumont-Wilshire", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1104,11 +1133,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Sabin", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -1141,11 +1171,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "center", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Alameda", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "center"
       }
     }, 
     {
@@ -1178,11 +1209,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Boise", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -1215,11 +1247,50 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Northwest Heights", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.5877574511565, 
+              45.549135692053795
+            ], 
+            [
+              -122.5667598846186, 
+              45.54949214362518
+            ], 
+            [
+              -122.56688296702123, 
+              45.55309046788216
+            ], 
+            [
+              -122.58788186007553, 
+              45.55273399421893
+            ], 
+            [
+              -122.5877574511565, 
+              45.549135692053795
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Roseway", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1252,11 +1323,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Maywood Park", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1289,11 +1361,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Madison South", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -1326,11 +1399,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Argay/Wilkes", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1363,11 +1437,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Boise/Eliot", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1400,11 +1475,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Eliot", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1437,11 +1513,50 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Irvington", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.6844207628266, 
+              45.543687412317034
+            ], 
+            [
+              -122.65026543936057, 
+              45.54429398344335
+            ], 
+            [
+              -122.65039378853506, 
+              45.54789222306528
+            ], 
+            [
+              -122.68455126937589, 
+              45.54728561434648
+            ], 
+            [
+              -122.6844207628266, 
+              45.543687412317034
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Sabin/Irvington", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -1474,11 +1589,50 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Alameda/Irvington", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.60490485460915, 
+              45.53849751765215
+            ], 
+            [
+              -122.57085422971676, 
+              45.53907880345051
+            ], 
+            [
+              -122.57097754837238, 
+              45.542677136130045
+            ], 
+            [
+              -122.60503032398684, 
+              45.54209581430544
+            ], 
+            [
+              -122.60490485460915, 
+              45.53849751765215
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Rose City Park", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1511,11 +1665,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Parkrose Heights", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1524,35 +1679,74 @@
         "coordinates": [
           [
             [
-              -122.69824311336713, 
-              45.5341917725732
+              -122.739919191828, 
+              45.530523171278304
             ], 
             [
-              -122.65820571666463, 
-              45.53490670607993
+              -122.69988489782128, 
+              45.53125257938903
             ], 
             [
-              -122.65833454645838, 
-              45.53850494833371
+              -122.70001635304077, 
+              45.53485077903778
             ], 
             [
-              -122.6983744716237, 
-              45.53778997051891
+              -122.74005317505156, 
+              45.534121325722545
             ], 
             [
-              -122.69824311336713, 
-              45.5341917725732
+              -122.739919191828, 
+              45.530523171278304
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Northwest District", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.6276475516329, 
+              45.54286276211823
+            ], 
+            [
+              -122.56276701583599, 
+              45.54397438601085
+            ], 
+            [
+              -122.56288983393613, 
+              45.54757272132089
+            ], 
+            [
+              -122.62777446805507, 
+              45.54646102853344
+            ], 
+            [
+              -122.6276475516329, 
+              45.54286276211823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Alameda/Beaumont-Wilshire", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1585,11 +1779,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Northwest District/Northwest Industrial", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -1622,11 +1817,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "center", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Forest Park/Northwest District", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "center"
       }
     }, 
     {
@@ -1659,11 +1855,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Russell", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1672,35 +1869,188 @@
         "coordinates": [
           [
             [
-              -122.69477350864155, 
-              45.52967301198013
+              -122.60918840067835, 
+              45.53706368644924
             ], 
             [
-              -122.6828964408602, 
-              45.52988620854904
+              -122.55260915545198, 
+              45.53802615713899
             ], 
             [
-              -122.68302681946071, 
-              45.53348442914898
+              -122.55273131874938, 
+              45.541624510528514
             ], 
             [
-              -122.69490463723858, 
-              45.533271219367215
+              -122.60931413760582, 
+              45.54066198018776
             ], 
             [
-              -122.69477350864155, 
-              45.52967301198013
+              -122.60918840067835, 
+              45.53706368644924
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Roseway/Madison South", 
         "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "point_size": 2, 
+        "justified": "center"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.65487682714208, 
+              45.537658197032215
+            ], 
+            [
+              -122.63014612798872, 
+              45.53809211277638
+            ], 
+            [
+              -122.63027319168225, 
+              45.54169038228229
+            ], 
+            [
+              -122.65500545278506, 
+              45.54125643964583
+            ], 
+            [
+              -122.65487682714208, 
+              45.537658197032215
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Grant Park", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.62143608934174, 
+              45.54274949962572
+            ], 
+            [
+              -122.58185261157668, 
+              45.54342991408286
+            ], 
+            [
+              -122.5819766348117, 
+              45.5470282296332
+            ], 
+            [
+              -122.62156261292537, 
+              45.546347773006254
+            ], 
+            [
+              -122.62143608934174, 
+              45.54274949962572
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Mc Unclaimed #5", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.68076183786098, 
+              45.527524025147954
+            ], 
+            [
+              -122.66888516612764, 
+              45.52773577827712
+            ], 
+            [
+              -122.66901465449101, 
+              45.531334017275675
+            ], 
+            [
+              -122.68089207617749, 
+              45.53112225102311
+            ], 
+            [
+              -122.68076183786098, 
+              45.527524025147954
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Pearl", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.61896238883858, 
+              45.53842344325278
+            ], 
+            [
+              -122.56934580466645, 
+              45.539273159871264
+            ], 
+            [
+              -122.5694690284096, 
+              45.5428714939258
+            ], 
+            [
+              -122.61908874647403, 
+              45.542021724644655
+            ], 
+            [
+              -122.61896238883858, 
+              45.53842344325278
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Grant Park/Hollywood", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1733,11 +2083,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Hollywood", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1770,11 +2121,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Woodland Park", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1783,35 +2135,112 @@
         "coordinates": [
           [
             [
-              -122.67941892441665, 
-              45.529782710450206
+              -122.69201483775834, 
+              45.52703984471032
             ], 
             [
-              -122.64235374164507, 
-              45.530439044580035
+              -122.66283527645594, 
+              45.52756075884752
             ], 
             [
-              -122.64248155965576, 
-              45.534037309911774
+              -122.66296438215412, 
+              45.531159004843765
             ], 
             [
-              -122.67954908304299, 
-              45.53338093510535
+              -122.69214578598641, 
+              45.5306380584229
             ], 
             [
-              -122.67941892441665, 
-              45.529782710450206
+              -122.69201483775834, 
+              45.52703984471032
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Lloyd District", 
         "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "point_size": 2, 
+        "justified": "right"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.67922419751486, 
+              45.53269575151946
+            ], 
+            [
+              -122.64215711642953, 
+              45.53335202209023
+            ], 
+            [
+              -122.64228492855383, 
+              45.53695028410001
+            ], 
+            [
+              -122.6793543504948, 
+              45.5362939728566
+            ], 
+            [
+              -122.67922419751486, 
+              45.53269575151946
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Sullivan'S Gulch", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.62618481343911, 
+              45.532328858591164
+            ], 
+            [
+              -122.58660863548948, 
+              45.53301090689911
+            ], 
+            [
+              -122.58673293658052, 
+              45.536609230062076
+            ], 
+            [
+              -122.62631161394941, 
+              45.53592713948317
+            ], 
+            [
+              -122.62618481343911, 
+              45.532328858591164
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Mc Unclaimed #6", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1844,11 +2273,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Montavilla", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1881,11 +2311,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "center", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Laurelhurst", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "center"
       }
     }, 
     {
@@ -1894,35 +2325,36 @@
         "coordinates": [
           [
             [
-              -122.76357120038217, 
-              45.52738459551345
+              -122.76348089638157, 
+              45.52498583927197
             ], 
             [
-              -122.70572442636436, 
-              45.52844600032797
+              -122.70563655713948, 
+              45.526047200235794
             ], 
             [
-              -122.70585624408193, 
-              45.53204419671285
+              -122.70576836375274, 
+              45.529645399623924
             ], 
             [
-              -122.76370667064741, 
-              45.53098272611889
+              -122.7636163552352, 
+              45.52858397288337
             ], 
             [
-              -122.76357120038217, 
-              45.52738459551345
+              -122.76348089638157, 
+              45.52498583927197
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Hillside/Northwest District", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -1955,11 +2387,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Kerns", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -1968,35 +2401,74 @@
         "coordinates": [
           [
             [
-              -122.73320120733017, 
-              45.52316985274159
+              -122.65091772975202, 
+              45.530508044764446
             ], 
             [
-              -122.71682109143428, 
-              45.523469058558845
+              -122.58323585234606, 
+              45.53168076834489
             ], 
             [
-              -122.71695359872378, 
-              45.52706724823644
+              -122.58335993740079, 
+              45.53527909675837
             ], 
             [
-              -122.73333474881532, 
-              45.52676802387616
+              -122.65104608907146, 
+              45.534106300496944
             ], 
             [
-              -122.73320120733017, 
-              45.52316985274159
+              -122.65091772975202, 
+              45.530508044764446
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Lloyd District/Sullivan'S Gulch", 
         "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.7148618150159, 
+              45.52590509077002
+            ], 
+            [
+              -122.6984808168774, 
+              45.5262016900747
+            ], 
+            [
+              -122.69861217172286, 
+              45.52979989744424
+            ], 
+            [
+              -122.71499420418057, 
+              45.529503279757954
+            ], 
+            [
+              -122.7148618150159, 
+              45.52590509077002
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
         "font_size": 10, 
         "name": "Hillside", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2029,11 +2501,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "North Tabor", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2066,11 +2539,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Hazelwood", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2103,11 +2577,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "center", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Old Town/Chinatown", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "center"
       }
     }, 
     {
@@ -2140,11 +2615,50 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Arlington Heights", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.69197267588473, 
+              45.51943424645038
+            ], 
+            [
+              -122.66034008809271, 
+              45.51999868028786
+            ], 
+            [
+              -122.66046901900928, 
+              45.52359693819899
+            ], 
+            [
+              -122.69210360396283, 
+              45.52303246938071
+            ], 
+            [
+              -122.69197267588473, 
+              45.51943424645038
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Goose Hollow", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2177,11 +2691,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Glenfair", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2214,11 +2729,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Arlington Heights/Sylvan-Highlands", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -2251,11 +2767,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Buckman", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2288,11 +2805,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "center", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Downtown", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "center"
       }
     }, 
     {
@@ -2325,11 +2843,88 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Mt. Tabor", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.77368674845188, 
+              45.512177328469996
+            ], 
+            [
+              -122.73387049279744, 
+              45.51291471437953
+            ], 
+            [
+              -122.73400405251802, 
+              45.516512897044024
+            ], 
+            [
+              -122.77382282151625, 
+              45.51577546543616
+            ], 
+            [
+              -122.77368674845188, 
+              45.512177328469996
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Sylvan-Highlands", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.76795660046449, 
+              45.517003975786324
+            ], 
+            [
+              -122.69998610623375, 
+              45.51825096664867
+            ], 
+            [
+              -122.70011753783939, 
+              45.521849181879354
+            ], 
+            [
+              -122.76809232307492, 
+              45.52060211373616
+            ], 
+            [
+              -122.76795660046449, 
+              45.517003975786324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Goose Hollow/Southwest Hills", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -2362,11 +2957,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Goose Hollow/Southwest Hills", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2399,11 +2995,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Southwest Hills", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -2436,11 +3033,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Sunnyside", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2473,11 +3071,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Hazelwood/Mill Park", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2510,11 +3109,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Sylvan-Highlands/Southwest Hills", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -2547,11 +3147,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Mill Park", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2584,11 +3185,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Centennial", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2621,11 +3223,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Hosford-Abernethy", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -2658,11 +3261,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Richmond", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2695,11 +3299,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "South Portland", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2732,11 +3337,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Homestead", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2769,11 +3375,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "South Tabor", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2806,11 +3413,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Bridlemile/Southwest Hills", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2843,11 +3451,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Powellhurst-Gilbert", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2880,11 +3489,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Brooklyn Action Corps", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2917,11 +3527,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Bridlemile", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -2930,35 +3541,74 @@
         "coordinates": [
           [
             [
-              -122.71571542838664, 
-              45.47621952364709
+              -122.62110883166714, 
+              45.49362576837136
             ], 
             [
-              -122.69648452039199, 
-              45.47656793810084
+              -122.57761983510103, 
+              45.49437311175665
+            ], 
+            [
+              -122.57774348425656, 
+              45.497971490768954
+            ], 
+            [
+              -122.62123522550817, 
+              45.497224101066095
+            ], 
+            [
+              -122.62110883166714, 
+              45.49362576837136
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Creston-Kenilworth", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.71584775603534, 
+              45.47981777034465
             ], 
             [
               -122.69661563483142, 
               45.48016620639109
             ], 
             [
-              -122.71584775603534, 
-              45.47981777034465
+              -122.69674676582605, 
+              45.483764470371625
             ], 
             [
-              -122.71571542838664, 
-              45.47621952364709
+              -122.71598010039223, 
+              45.483416012731155
+            ], 
+            [
+              -122.71584775603534, 
+              45.47981777034465
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Hillsdale", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -2967,35 +3617,36 @@
         "coordinates": [
           [
             [
-              -122.58930863685187, 
-              45.4900031841949
+              -122.58926718108494, 
+              45.488803726048154
             ], 
             [
-              -122.55820301230483, 
-              45.49053084036834
+              -122.5581622108364, 
+              45.489331371321256
             ], 
             [
-              -122.55832542701609, 
-              45.494129244619565
+              -122.55828462039456, 
+              45.49292977701802
             ], 
             [
-              -122.58943301462361, 
-              45.493601555743695
+              -122.58939155362108, 
+              45.49240209904319
             ], 
             [
-              -122.58930863685187, 
-              45.4900031841949
+              -122.58926718108494, 
+              45.488803726048154
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Foster-Powell", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3028,11 +3679,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Lents", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3065,11 +3717,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Lents/Powellhurst-Gilbert", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3102,11 +3755,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Healy Heights/Southwest Hills", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -3139,11 +3793,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Centennial/Pleasant Valley", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3176,11 +3831,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Pleasant Valley", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3213,11 +3869,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Southwest Hills", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3250,11 +3907,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Mt. Scott-Arleta", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3263,35 +3921,36 @@
         "coordinates": [
           [
             [
-              -122.74615163492652, 
-              45.468655578445734
+              -122.65082669742836, 
+              45.470376528428886
             ], 
             [
-              -122.65287235692966, 
-              45.47034042669746
+              -122.55754191390459, 
+              45.47198415586939
             ], 
             [
-              -122.65300070414912, 
-              45.47393875128364
+              -122.5576642470542, 
+              45.47558258232741
             ], 
             [
-              -122.74628586612711, 
-              45.47225379861472
+              -122.65095491560156, 
+              45.473974855252465
             ], 
             [
-              -122.74615163492652, 
-              45.468655578445734
+              -122.65082669742836, 
+              45.470376528428886
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Sellwood-Moreland Improvement League", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3324,11 +3983,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Reed", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3361,11 +4021,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "center", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Woodstock", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "center"
       }
     }, 
     {
@@ -3374,35 +4035,36 @@
         "coordinates": [
           [
             [
-              -122.72672689634014, 
-              45.48105434358711
+              -122.74928382814635, 
+              45.48063944997636
             ], 
             [
-              -122.70621566110704, 
-              45.48142777026119
+              -122.7287728900717, 
+              45.481016893691034
             ], 
             [
-              -122.70634740109197, 
-              45.485026021824595
+              -122.72890605321663, 
+              45.484615119790796
             ], 
             [
-              -122.72685993040282, 
-              45.48465257200777
+              -122.74941828531279, 
+              45.48423765268457
             ], 
             [
-              -122.72672689634014, 
-              45.48105434358711
+              -122.74928382814635, 
+              45.48063944997636
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Hayhurst", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -3435,11 +4097,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Eastmoreland/Reed", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -3472,11 +4135,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 1, 
         "font_size": 10, 
         "name": "Eastmoreland", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3509,11 +4173,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Pleasant Valley/Powellhurst-Gilbert", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3522,35 +4187,74 @@
         "coordinates": [
           [
             [
-              -122.73897557778278, 
-              45.463664438663635
+              -122.73256131933248, 
+              45.471905685868315
             ], 
             [
-              -122.71356173512085, 
-              45.464129429240096
+              -122.70647889938292, 
+              45.47238130946012
             ], 
             [
-              -122.71369389877826, 
-              45.46772769228091
+              -122.70661063507718, 
+              45.4759795711677
             ], 
             [
-              -122.73910934432628, 
-              45.46726267288727
+              -122.73269470032959, 
+              45.47550391809966
             ], 
             [
-              -122.73897557778278, 
-              45.463664438663635
+              -122.73256131933248, 
+              45.471905685868315
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "overlaps": 0, 
+        "font_size": 10, 
+        "name": "Maplewood", 
         "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.71192258876196, 
+              45.4670688817221
+            ], 
+            [
+              -122.68650701062275, 
+              45.46752790057644
+            ], 
+            [
+              -122.68663747450262, 
+              45.47112619058793
+            ], 
+            [
+              -122.71205465577454, 
+              45.47066714328622
+            ], 
+            [
+              -122.71192258876196, 
+              45.4670688817221
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Multnomah", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3559,35 +4263,36 @@
         "coordinates": [
           [
             [
-              -122.59633447437984, 
-              45.4689155802131
+              -122.59625129963081, 
+              45.466516652278365
             ], 
             [
-              -122.5469826241872, 
-              45.469752167639555
+              -122.54690152484194, 
+              45.46735320514068
             ], 
             [
-              -122.54710428600335, 
-              45.473350607846434
+              -122.54702317641936, 
+              45.470951648181234
             ], 
             [
-              -122.59645924962886, 
-              45.47251396857108
+              -122.59637606437934, 
+              45.47011504347217
             ], 
             [
-              -122.59633447437984, 
-              45.4689155802131
+              -122.59625129963081, 
+              45.466516652278365
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Brentwood-Darlington", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3620,11 +4325,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "South Burlingame", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3657,11 +4363,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Ashcreek", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -3694,11 +4401,50 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Mc Unclaimed #11", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.6334027876777, 
+              45.465656579491174
+            ], 
+            [
+              -122.54038095153183, 
+              45.46724583291717
+            ], 
+            [
+              -122.54050219129307, 
+              45.47084428295764
+            ], 
+            [
+              -122.63352989547893, 
+              45.46925493103547
+            ], 
+            [
+              -122.6334027876777, 
+              45.465656579491174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Eastmoreland/Ardenwald-Johnson Creek", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3731,11 +4477,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Ardenwald-Johnson Creek", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3768,11 +4515,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Markham", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3805,11 +4553,50 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Marshall Park", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.6180930700719, 
+              45.46062138657335
+            ], 
+            [
+              -122.53141989995716, 
+              45.46209316879458
+            ], 
+            [
+              -122.53154056317786, 
+              45.465691634128284
+            ], 
+            [
+              -122.6182192004146, 
+              45.46421976069106
+            ], 
+            [
+              -122.6180930700719, 
+              45.46062138657335
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Ardenwald-Johnson Creek/Woodstock", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3842,11 +4629,50 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Collins View", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.61009543987545, 
+              45.46072934155952
+            ], 
+            [
+              -122.5500124879408, 
+              45.46175236795064
+            ], 
+            [
+              -122.55013432391647, 
+              45.46535081409294
+            ], 
+            [
+              -122.6102210657045, 
+              45.46432772429826
+            ], 
+            [
+              -122.61009543987545, 
+              45.46072934155952
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Ardenwald-Johnson Creek", 
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3879,11 +4705,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Crestwood", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -3916,11 +4743,12 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Ashcreek/Crestwood", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -3929,35 +4757,74 @@
         "coordinates": [
           [
             [
-              -122.71938191176615, 
-              45.44457947727472
+              -122.71950725643633, 
+              45.455017573140765
             ], 
             [
-              -122.67547155079585, 
-              45.44537215525486
+              -122.6725723009747, 
+              45.45586412762312
             ], 
             [
-              -122.67560126771556, 
-              45.44897048281892
+              -122.67270185880228, 
+              45.45946244664133
             ], 
             [
-              -122.7195143973304, 
-              45.448177755713246
+              -122.71963977416281, 
+              45.45861583969443
             ], 
             [
-              -122.71938191176615, 
-              45.44457947727472
+              -122.71950725643633, 
+              45.455017573140765
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
+        "overlaps": 1, 
+        "font_size": 10, 
+        "name": "Ashcreek/Crestwood", 
         "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "point_size": 2, 
+        "justified": "left"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.76538079708364, 
+              45.444931357621456
+            ], 
+            [
+              -122.72147080483107, 
+              45.445741583273865
+            ], 
+            [
+              -122.72160342489178, 
+              45.44933985800568
+            ], 
+            [
+              -122.76551618566079, 
+              45.44852958214097
+            ], 
+            [
+              -122.76538079708364, 
+              45.444931357621456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "West Portland Park", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "right"
       }
     }, 
     {
@@ -3966,35 +4833,36 @@
         "coordinates": [
           [
             [
-              -122.6765835014204, 
-              45.44063010057309
+              -122.67649699299201, 
+              45.43823121052717
             ], 
             [
-              -122.63426018844018, 
-              45.44137872694327
+              -122.63417545882324, 
+              45.43897980596826
             ], 
             [
-              -122.63438729622982, 
-              45.44497710494836
+              -122.63430255592138, 
+              45.442578186739816
             ], 
             [
-              -122.67671327770736, 
-              45.4442284321821
+              -122.67662675836335, 
+              45.4418295449046
             ], 
             [
-              -122.6765835014204, 
-              45.44063010057309
+              -122.67649699299201, 
+              45.43823121052717
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Mc Unclaimed #13", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -4003,35 +4871,36 @@
         "coordinates": [
           [
             [
-              -122.73076163489925, 
-              45.43989432669554
+              -122.69943302580668, 
+              45.44217417688303
             ], 
             [
-              -122.70111587122246, 
-              45.44043431491191
+              -122.66978578486354, 
+              45.4427060949331
             ], 
             [
-              -122.70124719478267, 
-              45.444032618912615
+              -122.66991513699506, 
+              45.446304431877735
             ], 
             [
-              -122.73089482749916, 
-              45.44349259723116
+              -122.6995642472014, 
+              45.44577248086236
             ], 
             [
-              -122.73076163489925, 
-              45.43989432669554
+              -122.69943302580668, 
+              45.44217417688303
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "right", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Arnold Creek", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }, 
     {
@@ -4040,35 +4909,36 @@
         "coordinates": [
           [
             [
-              -122.73410500923518, 
-              45.43508333363579
+              -122.7338244831659, 
+              45.43559770707596
             ], 
             [
-              -122.70119076561554, 
-              45.43568339645879
+              -122.70090993982484, 
+              45.43619768953048
             ], 
             [
-              -122.70132208296236, 
-              45.439281705656434
+              -122.70104124064008, 
+              45.43979599847792
             ], 
             [
-              -122.73423840150818, 
-              45.43868160564532
+              -122.73395785894547, 
+              45.439195978840246
             ], 
             [
-              -122.73410500923518, 
-              45.43508333363579
+              -122.7338244831659, 
+              45.43559770707596
             ]
           ]
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "font_file": "fonts/helvetica.ttf", 
-        "justified": "left", 
+        "overlaps": 0, 
         "font_size": 10, 
         "name": "Far Southwest", 
-        "point_size": 2
+        "font_file": "fonts/helvetica.ttf", 
+        "point_size": 2, 
+        "justified": "left"
       }
     }
   ]
