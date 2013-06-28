@@ -2,6 +2,8 @@ Portland Map Demo
 ================
 ![final](http://farm4.staticflickr.com/3806/9130557737_ae93c4f471.jpg)
 
+![both](http://farm6.staticflickr.com/5549/9132768662_6f5c98dfb4.jpg)
+
 This repo contains the data referenced in the blog post [Creating and Publishing Maps with D3, Dymo, and PhantomJS](http://wrobstory.github.io/2013/06/creating-with-d3-dymo.html). 
 
 The data description and sources are as follows: 
